@@ -90,7 +90,7 @@
     <td>
         <code>| Spalte A | Spalte B |</code><br>
         <code>|----------|----------|</code><br>
-        <code>| Zeile 1  | Zeile 2  |</code><br>
+        <code>| Zeile 1  | Zeile 1  |</code><br>
     </td>
     <td>
         <table>
@@ -100,7 +100,7 @@
             </tr>
             <tr>
                 <th>Zeile 1</th>
-                <th>Zeile 2</th>
+                <th>Zeile 1</th>
         </table>
     </td>
   </tr>
